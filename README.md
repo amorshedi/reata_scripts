@@ -1,1 +1,1 @@
-# Python functions for setting up Thermodynamic Integration in amber
+# Python functions for setting up and post-processing Thermodynamic Integration in amber
